@@ -10,6 +10,7 @@
 ```sh
 git clone git@github.com:Alexsisukin/promopult.git
 cd promopult/ 
+composer update
 ```
 
 ## 3. Темы писем
